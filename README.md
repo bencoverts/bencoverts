@@ -12,7 +12,7 @@
 <br>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=withfabian&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bencoverts&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 </p>
 
 
